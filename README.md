@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently working Gen Ai Skills
+building and shipping ai fast
 
 
 ## 🌐 Socials:
