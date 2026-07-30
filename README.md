@@ -103,6 +103,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Hary2003/Hary2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+</div>
+
+---
+
 <div align="center">
 
 *"It works on my machine — the highest form of documentation."*
