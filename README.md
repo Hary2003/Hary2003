@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Agentic+AI+%2F+FastAPI+%2B+React;Building+multi-agent+systems;LangGraph+%7C+RAG+%7C+MCP+%7C+Vector+Search;Currently+shipping+SELF_SERVICE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+actually+work+(mostly);It's+not+a+bug%2C+it's+emergent+behavior;LangGraph+%7C+RAG+%7C+MCP+%7C+Coffee" />
 
 </div>
 
@@ -21,12 +21,11 @@
 
 ### 🧠 About Me
 
-- 🔭 Building **SELF_SERVICE** — an AI-powered incident management & support platform (FastAPI + React)
-- 🤖 Deep into **agentic AI architectures** — ReAct, Plan-and-Execute, Reflexion, multi-agent orchestration
-- 🛠️ Recently shipped: monitoring pipelines (Loki → detectors → agent), Sentry + pgvector integration, evidence-gated investigation agents
-- 🌱 Currently sharpening DSA fundamentals and system design for the next big role
-- 🎯 Exploring paths like **Forward Deployed Engineer** / **AI Engineer**
-- ⚡ Fun fact: also training for a 10K and a full marathon — same discipline, different stack
+- 🤖 Building agents that argue with themselves less than I do
+- 🐍 Fluent in Python and mild sleep deprivation
+- 🧩 LangGraph, RAG, MCP — collecting AI acronyms like Infinity Stones
+- 🏃 Also runs marathons, because apparently debugging isn't enough suffering
+- 🎯 Currently interviewing — will trade witty READMEs for a paycheck
 
 ---
 
@@ -84,7 +83,6 @@
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hary2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hary2003&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -103,7 +101,7 @@
 
 <div align="center">
 
-*"Ship fast, iterate faster."*
+*"It works on my machine — the highest form of documentation."*
 
 [![](https://visitcount.itsvg.in/api?id=Hary2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
