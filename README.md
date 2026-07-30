@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Harisankar%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%26%20Shipping%20AI%2C%20Fast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/Harisankar">
