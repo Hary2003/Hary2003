@@ -90,11 +90,15 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hary2003&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hary2003&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
+---
+
+### 🎲 Random Dev Joke (refreshes every visit — blame it, not me)
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hary2003&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Random dev joke"/>
 </div>
 
 ---
