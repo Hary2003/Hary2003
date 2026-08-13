@@ -23,13 +23,13 @@
 
 - 🤖 Building agents that argue with themselves less than I do
 - 🐍 Fluent in Python and mild sleep deprivation
-- 🧩 LangGraph, RAG, MCP — collecting AI acronyms like Infinity Stones
-- 🏃 Also runs marathons, because apparently debugging isn't enough suffering
-- 🎯 Currently interviewing — will trade witty READMEs for a paycheck
+- 🧩 On an R&D team, which is corporate for "we don't know what will work either"
+- 🏃 Also runs marathons, atleast it have a finish line
+- 🎯  will trade witty READMEs for a paycheck
 
 ---
 
-### 🚀 Currently Building
+### Featured
 
 **agentforge** — a Python, DAG-based multi-agent orchestration framework built from scratch (Groq LLM backend), topped with a Vue drag-and-drop canvas that lets users configure a personal, Copilot-style conversational assistant. Ships with its own RAG layer: Chroma vector store, bge-small/OpenAI embeddings, and optional cross-encoder reranking wired straight into the DAG executor.
 
