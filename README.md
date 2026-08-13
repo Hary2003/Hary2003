@@ -44,6 +44,8 @@
 <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CopilotKit-6963FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AG--UI-16A34A?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Backend**
@@ -53,6 +55,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 **Frontend**
@@ -71,6 +74,7 @@
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -83,22 +87,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hary2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Hary2003&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hary2003&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
 
 ---
 
