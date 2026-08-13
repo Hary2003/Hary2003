@@ -29,6 +29,12 @@
 
 ---
 
+### 🚀 Currently Building
+
+**agentforge** — a Python, DAG-based multi-agent orchestration framework built from scratch (Groq LLM backend), topped with a Vue drag-and-drop canvas that lets users configure a personal, Copilot-style conversational assistant. Ships with its own RAG layer: Chroma vector store, bge-small/OpenAI embeddings, and optional cross-encoder reranking wired straight into the DAG executor.
+
+---
+
 ### 🧰 Tech Stack
 
 **AI / Agentic**
@@ -51,6 +57,7 @@
 
 **Frontend**
 <p>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
