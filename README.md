@@ -23,8 +23,9 @@
 
 - 🤖 Building agents that argue with themselves less than I do
 - 🐍 Fluent in Python, and mildly fluent in sleep deprivation
-- 🧩 AI Engineer On an R&D team 
+- 🧩 On an R&D team — corporate for *"we don't know what will work either"*
 - 🏃 Also runs marathons — at least those have a finish line
+- 🎯 Will trade witty READMEs for a paycheck
 
 <br/>
 
@@ -33,7 +34,7 @@
 ### agentforge
 A Python, DAG-based multi-agent orchestration framework built from scratch on a Groq LLM backend, topped with a Vue drag-and-drop canvas for configuring a personal, Copilot-style conversational assistant. Ships with its own RAG layer — Chroma vector store, bge-small/OpenAI embeddings, and optional cross-encoder reranking — wired straight into the DAG executor.
 
-### AI-Assisted Incident Management Platform
+### SelfService — AI-Assisted Incident Management Platform
 An end-to-end incident reporting and tracking platform built for internal use. Users submit incidents through a guided interface and receive automatic triage — an OpenAI-based LLM classifies severity, priority, and routing, with a rule-based fallback when the LLM is unavailable — before a Jira ticket is created and tracked to resolution.
 
 Also designed proactive monitoring pipelines (Sentry for error tracking, Loki for log-based anomaly detection) that automatically detect issues and create or escalate Jira incidents — reducing manual triage and cutting time-to-detection for production issues.
