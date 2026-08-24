@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Harisankar%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20%26%20Shipping%20AI%2C%20Fast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Harisankar%20M&fontSize=45&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 <a href="https://linkedin.com/in/Harisankar">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -10,6 +10,10 @@
 <a href="mailto:harisankarm2003@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hary2003&color=00c9ff&style=for-the-badge&label=Profile+Views)
 
 <br/>
 
@@ -118,7 +122,5 @@ Also designed proactive monitoring pipelines (Sentry for error tracking, Loki fo
 <div align="center">
 
 *"It works on my machine — the highest form of documentation."*
-
-[![](https://visitcount.itsvg.in/api?id=Hary2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
