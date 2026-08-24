@@ -17,25 +17,32 @@
 
 </div>
 
----
+<br/>
 
-### 🧠 About Me
+## 🧠 About Me
 
 - 🤖 Building agents that argue with themselves less than I do
-- 🐍 Fluent in Python and mild sleep deprivation
-- 🧩 On an R&D team, which is corporate for "we don't know what will work either"
-- 🏃 Also runs marathons, atleast it have a finish line
-- 🎯  will trade witty READMEs for a paycheck
+- 🐍 Fluent in Python, and mildly fluent in sleep deprivation
+- 🧩 AI Engineer On an R&D team 
+- 🏃 Also runs marathons — at least those have a finish line
 
----
+<br/>
 
-### Featured
+## 🚀 Featured Projects
 
-**agentforge** — a Python, DAG-based multi-agent orchestration framework built from scratch (Groq LLM backend), topped with a Vue drag-and-drop canvas that lets users configure a personal, Copilot-style conversational assistant. Ships with its own RAG layer: Chroma vector store, bge-small/OpenAI embeddings, and optional cross-encoder reranking wired straight into the DAG executor.
+### agentforge
+A Python, DAG-based multi-agent orchestration framework built from scratch on a Groq LLM backend, topped with a Vue drag-and-drop canvas for configuring a personal, Copilot-style conversational assistant. Ships with its own RAG layer — Chroma vector store, bge-small/OpenAI embeddings, and optional cross-encoder reranking — wired straight into the DAG executor.
 
----
+### AI-Assisted Incident Management Platform
+An end-to-end incident reporting and tracking platform built for internal use. Users submit incidents through a guided interface and receive automatic triage — an OpenAI-based LLM classifies severity, priority, and routing, with a rule-based fallback when the LLM is unavailable — before a Jira ticket is created and tracked to resolution.
 
-### 🧰 Tech Stack
+Also designed proactive monitoring pipelines (Sentry for error tracking, Loki for log-based anomaly detection) that automatically detect issues and create or escalate Jira incidents — reducing manual triage and cutting time-to-detection for production issues.
+
+**Stack:** FastAPI · React · PostgreSQL · Jira Cloud API · OpenAI · Sentry · Loki
+
+<br/>
+
+## 🧰 Tech Stack
 
 **AI / Agentic**
 <p>
@@ -88,17 +95,18 @@
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
 </p>
 
----
+<br/>
 
-### 🎲 Random Dev Joke (refreshes every visit — blame it, not me)
+## 🎲 Random Dev Joke
+<sub>refreshes every visit — blame the API, not me</sub>
 
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Random dev joke"/>
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Hary2003/Hary2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
