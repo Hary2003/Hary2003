@@ -1,108 +1,103 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1423,50:4a2545,100:2d1b1e&height=180&section=header&text=Harisankar%20M&fontSize=42&fontColor=D4AF37&fontAlignY=45" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Harisankar%20M&fontSize=45&fontColor=ffffff&fontAlignY=38" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=AI+Engineer+%C2%B7+R%26D;Building+agents+that+actually+work+(mostly)" />
+
+<br/>
 
 <a href="https://linkedin.com/in/Harisankar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1a1423?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=4a2545"/>
 </a>
 <a href="mailto:harisankarm2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-1a1423?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=4a2545"/>
 </a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hary2003&color=00c9ff&style=for-the-badge&label=Profile+Views)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+actually+work+(mostly);It's+not+a+bug%2C+it's+emergent+behavior;LangGraph+%7C+RAG+%7C+MCP+%7C+Coffee" />
+<img src="https://komarev.com/ghpvc/?username=Hary2003&color=D4AF37&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+## About Me
 
 - 🤖 Building agents that argue with themselves less than I do
 - 🐍 Fluent in Python, and mildly fluent in sleep deprivation
 - 🧩 On an R&D team — corporate for *"we don't know what will work either"*
 - 🏃 Also runs marathons — at least those have a finish line
-- 🎯 Will trade witty READMEs for a paycheck
+- 🎯 Open to new opportunities
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### agentforge
 A Python, DAG-based multi-agent orchestration framework built from scratch on a Groq LLM backend, topped with a Vue drag-and-drop canvas for configuring a personal, Copilot-style conversational assistant. Ships with its own RAG layer — Chroma vector store, bge-small/OpenAI embeddings, and optional cross-encoder reranking — wired straight into the DAG executor.
 
-### — AI-Assisted Incident Management Platform
+### Incident Management Platform
 An end-to-end incident reporting and tracking platform built for internal use. Users submit incidents through a guided interface and receive automatic triage — an OpenAI-based LLM classifies severity, priority, and routing, with a rule-based fallback when the LLM is unavailable — before a Jira ticket is created and tracked to resolution.
 
-Also designed proactive monitoring pipelines (Sentry for error tracking, Loki for log-based anomaly detection) that automatically detect issues and create or escalate Jira incidents — reducing manual triage and cutting time-to-detection for production issues.
+Also includes proactive monitoring pipelines (Sentry for error tracking, Loki for log-based anomaly detection) that automatically detect issues and create or escalate Jira incidents — reducing manual triage and cutting time-to-detection for production issues.
 
 **Stack:** FastAPI · React · PostgreSQL · Jira Cloud API · OpenAI · Sentry · Loki
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **AI / Agentic**
 <p>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CopilotKit-6963FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/AG--UI-16A34A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/Groq-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/ChromaDB-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/pgvector-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/MCP-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/CopilotKit-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/AG--UI-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
 </p>
 
 **Backend**
 <p>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-2d1b1e?style=for-the-badge&logo=fastapi&logoColor=EDE0C8&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/Python-2d1b1e?style=for-the-badge&logo=python&logoColor=EDE0C8&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/Flask-2d1b1e?style=for-the-badge&logo=flask&logoColor=EDE0C8&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2d1b1e?style=for-the-badge&logo=postgresql&logoColor=EDE0C8&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/MySQL-2d1b1e?style=for-the-badge&logo=mysql&logoColor=EDE0C8&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/Redis-2d1b1e?style=for-the-badge&logo=redis&logoColor=EDE0C8&labelColor=4a2545"/>
 </p>
 
 **Frontend**
 <p>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-EDE0C8?style=for-the-badge&logo=vue.js&logoColor=4a2545&labelColor=D4AF37"/>
+<img src="https://img.shields.io/badge/React-EDE0C8?style=for-the-badge&logo=react&logoColor=4a2545&labelColor=D4AF37"/>
+<img src="https://img.shields.io/badge/JavaScript-EDE0C8?style=for-the-badge&logo=javascript&logoColor=4a2545&labelColor=D4AF37"/>
+<img src="https://img.shields.io/badge/HTML5-EDE0C8?style=for-the-badge&logo=html5&logoColor=4a2545&labelColor=D4AF37"/>
+<img src="https://img.shields.io/badge/CSS3-EDE0C8?style=for-the-badge&logo=css3&logoColor=4a2545&labelColor=D4AF37"/>
 </p>
 
 **Infra / Tools**
 <p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-4a2545?style=for-the-badge&logo=amazon-aws&logoColor=D4AF37&labelColor=1a1423"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4a2545?style=for-the-badge&logo=google-cloud&logoColor=D4AF37&labelColor=1a1423"/>
+<img src="https://img.shields.io/badge/Sentry-4a2545?style=for-the-badge&logo=sentry&logoColor=D4AF37&labelColor=1a1423"/>
+<img src="https://img.shields.io/badge/Vercel-4a2545?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=1a1423"/>
+<img src="https://img.shields.io/badge/Render-4a2545?style=for-the-badge&logo=render&logoColor=D4AF37&labelColor=1a1423"/>
+<img src="https://img.shields.io/badge/GitHub_Codespaces-4a2545?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=1a1423"/>
+<img src="https://img.shields.io/badge/Git-4a2545?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=1a1423"/>
+<img src="https://img.shields.io/badge/GitHub-4a2545?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=1a1423"/>
 </p>
 
 **Data / ML**
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-1a1423?style=for-the-badge&logo=numpy&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/Pandas-1a1423?style=for-the-badge&logo=pandas&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/scikit--learn-1a1423?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/TensorFlow-1a1423?style=for-the-badge&logo=tensorflow&logoColor=D4AF37&labelColor=4a2545"/>
+<img src="https://img.shields.io/badge/Matplotlib-1a1423?style=for-the-badge&logo=matplotlib&logoColor=D4AF37&labelColor=4a2545"/>
 </p>
 
 <br/>
 
-## 🎲 Random Dev Joke
+## Random Dev Joke
 <sub>refreshes every visit — blame the API, not me</sub>
 
 <div align="center">
@@ -111,7 +106,7 @@ Also designed proactive monitoring pipelines (Sentry for error tracking, Loki fo
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Hary2003/Hary2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
