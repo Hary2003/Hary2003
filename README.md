@@ -97,14 +97,6 @@ Also includes proactive monitoring pipelines (Sentry for error tracking, Loki fo
 
 <br/>
 
-## Random Dev Joke
-<sub>refreshes every visit — blame the API, not me</sub>
-
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Random dev joke"/>
-</div>
-
-<br/>
 
 ## Contribution Snake
 
