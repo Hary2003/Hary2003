@@ -45,28 +45,39 @@ Currently exploring:
 
 ## Featured Projects
 
-### 🔍 OnBoarding Buddy
+## Onboarding buddy
 
-An AI-powered **repository intelligence and developer onboarding platform** designed to help engineers understand unfamiliar codebases faster.
+An AI-powered **repository intelligence and developer onboarding platform** designed to help engineers understand, navigate, review, and contribute to unfamiliar codebases faster.
 
-The system analyzes repositories using ASTs and dependency relationships, builds contextual knowledge about the codebase, and uses that knowledge to provide grounded onboarding assistance.
+The platform analyzes repositories using AST-based code intelligence, dependency graphs, Git activity, and contextual retrieval to build a structured understanding of the codebase. It then uses grounded AI agents and RAG to provide explainable onboarding assistance, repository exploration, contribution planning, security analysis, and pull-request intelligence.
 
-It has evolved into a broader developer-intelligence platform with capabilities including automated repository analysis, dependency mapping, onboarding generation, conversational codebase assistance, security analysis, and contribution intelligence.
+The system has evolved into an end-to-end **developer intelligence platform**, combining static code analysis, retrieval, agentic exploration, AI-assisted code understanding, security auditing, and contribution intelligence.
 
 **Highlights**
 
-* AST-based repository analysis
-* Module & dependency intelligence
-* Context-aware RAG
-* Grounded AI onboarding assistant
-* Repository issue → code contribution intelligence
-* Security and vulnerability analysis
-* Circular dependency detection
-* Test coverage gap detection
-* Automated contribution opportunity discovery
-* Evaluation & optimization loops
+- AST-based multi-language repository analysis
+- Module, dependency & architecture intelligence
+- Circular dependency & architecture analysis
+- Git activity and code-change intelligence
+- Multi-signal context-aware RAG
+- Grounded multi-turn AI onboarding assistant
+- Agentic repository exploration with read-only tools
+- Repository issue → contribution planning
+- Automated contribution opportunity discovery
+- Security & static-analysis auditing
+- Potential secret, unsafe evaluation, shell execution & insecure configuration detection
+- PR diff analysis & automated code review
+- Breaking-change & architecture-violation detection
+- Dependency blast-radius analysis
+- Targeted test recommendation
+- Test and coverage-gap intelligence
+- Explainable findings with source attribution and confidence
+- Automated Markdown/JSON repository reports
+- Production security hardening including SSRF, path traversal, rate limiting and API authentication
+- Dockerized backend & frontend with production configuration
+- CI-ready automated testing and frontend/Docker validation
 
-**Stack:** Python · LangGraph · RAG · AST · ChromaDB · pgvector · MCP · LLMs
+**Stack:** Python · FastAPI · React · PostgreSQL/Neon · SQLAlchemy · Alembic · LangGraph · LangChain · RAG · AST · Groq LLMs · ChromaDB · pgvector · MCP · Docker · Nginx · GitHub Actions
 
 ---
 
