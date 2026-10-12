@@ -1,269 +1,154 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a1423,50:4a2545,100:2d1b1e&height=180&section=header&text=Harisankar%20M&fontSize=42&fontColor=D4AF37&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:202020&height=200&section=header&text=HARISANKAR%20M&fontSize=46&fontColor=D4AF37&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20AGENTIC%20SYSTEMS%20%7C%20LLM%20INFRASTRUCTURE&descSize=13&descColor=B8B8B8&descAlignY=65" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=AI+Engineer+%C2%B7+R%26D;Building+agents+that+actually+work+(mostly);LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+Cloud" />
+<br/>
 
-<br/><br/>
+**I build AI systems designed to work beyond the demo.**
 
-<a href="https://linkedin.com/in/Harisankar">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1423?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=4a2545"/>
-</a>
-<a href="mailto:harisankarm2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1423?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=4a2545"/>
-</a>
-<a href="https://github.com/Hary2003">
-  <img src="https://img.shields.io/badge/GitHub-1a1423?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=4a2545"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Hary2003&color=D4AF37&style=for-the-badge&label=Profile+Views"/>
+Agentic workflows · Retrieval systems · Production AI · Backend engineering
+
+<br/>
+
+<a href="https://github.com/Hary2003"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=D4AF37" /></a>
+<a href="https://linkedin.com/in/Harisankar"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="mailto:harisankarm2003@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=D4AF37" /></a>
 
 </div>
 
-<br/>
+---
 
-## About Me
+## `01` — About Me
 
-* 🤖 AI Engineer focused on **Agentic AI, LLM systems & R&D**
-* 🧠 Building agents, orchestration systems, RAG pipelines, and AI-powered developer tools
-* 🐍 Python-first, with experience across AI/ML, backend engineering, and cloud infrastructure
-* 🧩 Working on R&D problems where the answer usually starts with *"let's see if this works"*
-* 🚀 Interested in **Agentic AI · LLM Systems · RAG · AI Infrastructure · Cloud**
-* 🏃 Also runs marathons — at least those have a finish line
-* 🎯 Open to new opportunities
+I'm an AI engineer working at the intersection of **LLMs, agentic systems, retrieval, and backend engineering**.
 
-<br/>
+My focus is building systems that can reason over context, use tools, handle failure, and deliver reliable results in real-world environments.
 
-## Current Focus
+I care about the engineering behind the intelligence: architecture, observability, evaluation, security, and maintainability.
 
-> Building AI systems that can reason, use tools, retrieve context, and actually get things done.
+- **Focus:** Agentic AI, RAG, LLM application engineering
+- **Core language:** Python
+- **Building with:** FastAPI, LangGraph, PostgreSQL, React
+- **Interests:** AI infrastructure, distributed systems, cloud engineering
 
-Currently exploring:
+Currently exploring better ways to build, evaluate, and deploy intelligent systems.
 
-**Agent Architecture** · **Multi-Agent Systems** · **RAG** · **MCP** · **LLM Evaluation** · **AI Developer Tools** · **Cloud AI Infrastructure**
+## `02` — Featured Projects
 
-<br/>
+### Onboarding Buddy
+**Repository intelligence for engineers.**
 
-## Featured Projects
+An AI-powered platform that helps developers understand unfamiliar codebases, navigate dependencies, and plan meaningful contributions.
 
-## Onboarding buddy
+- AST-based code analysis and dependency mapping
+- Grounded RAG with source-aware answers
+- Agentic repository exploration and onboarding assistance
+- Issue-to-code contribution planning
+- Pull request review and breaking-change analysis
+- Security-focused backend hardening
 
-An AI-powered **repository intelligence and developer onboarding platform** designed to help engineers understand, navigate, review, and contribute to unfamiliar codebases faster.
+`Python` `FastAPI` `React` `PostgreSQL` `LangGraph` `ChromaDB` `pgvector` `MCP` `Docker`
 
-The platform analyzes repositories using AST-based code intelligence, dependency graphs, Git activity, and contextual retrieval to build a structured understanding of the codebase. It then uses grounded AI agents and RAG to provide explainable onboarding assistance, repository exploration, contribution planning, security analysis, and pull-request intelligence.
-
-The system has evolved into an end-to-end **developer intelligence platform**, combining static code analysis, retrieval, agentic exploration, AI-assisted code understanding, security auditing, and contribution intelligence.
-
-**Highlights**
-
-- AST-based multi-language repository analysis
-- Module, dependency & architecture intelligence
-- Circular dependency & architecture analysis
-- Git activity and code-change intelligence
-- Multi-signal context-aware RAG
-- Grounded multi-turn AI onboarding assistant
-- Agentic repository exploration with read-only tools
-- Repository issue → contribution planning
-- Automated contribution opportunity discovery
-- Security & static-analysis auditing
-- Potential secret, unsafe evaluation, shell execution & insecure configuration detection
-- PR diff analysis & automated code review
-- Breaking-change & architecture-violation detection
-- Dependency blast-radius analysis
-- Targeted test recommendation
-- Test and coverage-gap intelligence
-- Explainable findings with source attribution and confidence
-- Automated Markdown/JSON repository reports
-- Production security hardening including SSRF, path traversal, rate limiting and API authentication
-- Dockerized backend & frontend with production configuration
-- CI-ready automated testing and frontend/Docker validation
-
-**Stack:** Python · FastAPI · React · PostgreSQL/Neon · SQLAlchemy · Alembic · LangGraph · LangChain · RAG · AST · Groq LLMs · ChromaDB · pgvector · MCP · Docker · Nginx · GitHub Actions
+**Engineering focus:** Repository understanding, retrieval quality, orchestration, and production reliability.
 
 ---
 
-### 🚨 Incident Management Platform
+### Incident Management Platform
+**From incident detection to actionable response.**
 
-An end-to-end **AI-powered incident management platform** for automated incident reporting, triage, monitoring, escalation, and Jira tracking.
+An AI-assisted incident management system designed to classify incidents, create Jira tickets, track SLAs, and automate escalation.
 
-Users submit incidents through a guided interface, while an LLM automatically classifies severity, priority, and routing before creating a Jira ticket.
+- Severity and priority classification with rule-based fallback
+- Automated Jira ticket creation and evidence handling
+- Monitoring-driven incident detection and escalation
+- SLA tracking and estimated resolution times
+- Structured incident reporting workflows
 
-The platform also integrates proactive monitoring pipelines that detect production issues from application errors and logs, automatically creating or escalating incidents.
+`Python` `FastAPI` `React` `PostgreSQL` `LLMs` `Jira` `Sentry` `Loki`
 
-**Highlights**
-
-* LLM-based incident classification
-* Rule-based fallback for reliability
-* Automated Jira ticket creation
-* Sentry-based error monitoring
-* Loki-based log anomaly detection
-* Automated incident escalation
-* SLA tracking
-* Predicted incident resolution ETA
-* File attachments and evidence handling
-
-**Stack:** FastAPI · React · PostgreSQL · OpenAI · Jira Cloud API · Sentry · Loki
+**Engineering focus:** Fault tolerance, operational visibility, workflow automation, and human-readable incident handling.
 
 ---
 
-### ⚙️ Agent From Scratch
+### Agent From Scratch
+**Understanding agent systems from first principles.**
 
-A from-scratch implementation exploring the internal architecture behind modern AI agents without relying on high-level agent frameworks.
-
-The architecture separates the core responsibilities of an agent into:
-
-`Agent → Planner → Memory → Tool Registry → Executor → LLM`
-
-The project focuses on understanding the fundamentals behind agent loops, tool calling, planning, execution, memory, and orchestration.
-
-**Goal:** Understand how agent systems work internally before abstracting them away behind frameworks.
-
-**Stack:** Python · LLM APIs · Tool Calling · Memory · Planning · Agent Architecture
-
-<br/>
-
-## Tech Stack
-
-### 🤖 AI / Agentic
-
-<p>
-<img src="https://img.shields.io/badge/LangGraph-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/LangChain-1a1423?style=for-the-badge&logo=langchain&logoColor=D4AF37&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/Groq-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/ChromaDB-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/pgvector-1a1423?style=for-the-badge&logo=postgresql&logoColor=D4AF37&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/MCP-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/RAG-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/LLMs-1a1423?style=for-the-badge&logoColor=D4AF37&labelColor=4a2545"/>
-</p>
-
-### 🧠 ML / Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-2d1b1e?style=for-the-badge&logo=python&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/PyTorch-2d1b1e?style=for-the-badge&logo=pytorch&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/TensorFlow-2d1b1e?style=for-the-badge&logo=tensorflow&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/scikit--learn-2d1b1e?style=for-the-badge&logo=scikit-learn&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/NumPy-2d1b1e?style=for-the-badge&logo=numpy&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/Pandas-2d1b1e?style=for-the-badge&logo=pandas&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/Matplotlib-2d1b1e?style=for-the-badge&logo=matplotlib&logoColor=EDE0C8&labelColor=4a2545"/>
-</p>
-
-### ⚡ Backend
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-2d1b1e?style=for-the-badge&logo=fastapi&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/Flask-2d1b1e?style=for-the-badge&logo=flask&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2d1b1e?style=for-the-badge&logo=postgresql&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/MySQL-2d1b1e?style=for-the-badge&logo=mysql&logoColor=EDE0C8&labelColor=4a2545"/>
-<img src="https://img.shields.io/badge/Redis-2d1b1e?style=for-the-badge&logo=redis&logoColor=EDE0C8&labelColor=4a2545"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-EDE0C8?style=for-the-badge&logo=react&logoColor=4a2545&labelColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Vue.js-EDE0C8?style=for-the-badge&logo=vue.js&logoColor=4a2545&labelColor=D4AF37"/>
-<img src="https://img.shields.io/badge/JavaScript-EDE0C8?style=for-the-badge&logo=javascript&logoColor=4a2545&labelColor=D4AF37"/>
-<img src="https://img.shields.io/badge/HTML5-EDE0C8?style=for-the-badge&logo=html5&logoColor=4a2545&labelColor=D4AF37"/>
-<img src="https://img.shields.io/badge/CSS3-EDE0C8?style=for-the-badge&logo=css3&logoColor=4a2545&labelColor=D4AF37"/>
-</p>
-
-### ☁️ Cloud / Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/AWS-4a2545?style=for-the-badge&logo=amazon-aws&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4a2545?style=for-the-badge&logo=google-cloud&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/Docker-4a2545?style=for-the-badge&logo=docker&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/Sentry-4a2545?style=for-the-badge&logo=sentry&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/Vercel-4a2545?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/Render-4a2545?style=for-the-badge&logo=render&logoColor=D4AF37&labelColor=1a1423"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-4a2545?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/GitHub-4a2545?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/GitHub_Codespaces-4a2545?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=1a1423"/>
-<img src="https://img.shields.io/badge/Postman-4a2545?style=for-the-badge&logo=postman&logoColor=D4AF37&labelColor=1a1423"/>
-</p>
-
-<br/>
-
-## 🧪 What I Like Building
+A framework-independent implementation exploring the core mechanics behind modern AI agents.
 
 ```text
-LLM Applications
-      ↓
-RAG Systems
-      ↓
-Tool-Using Agents
-      ↓
-Multi-Agent Workflows
-      ↓
-Evaluation & Optimization
-      ↓
-Production AI Systems
+User Input
+    ↓
+Agent Orchestrator
+    ↓
+Planning & Memory
+    ↓
+Tool Registry
+    ↓
+Execution & Results
+    ↓
+LLM Response
 ```
 
-I'm particularly interested in the gap between **"LLM demo"** and **"AI system that survives production."**
+- Explicit orchestration and execution flow
+- Tool registration and invocation
+- Memory and planning abstractions
+- Separation of reasoning from execution
 
-That means thinking about:
+`Python` `LLMs` `Tool Calling` `Agent Architecture`
 
-* Reliability
-* Observability
-* Evaluation
-* Retrieval quality
-* Tool execution
-* Failure handling
-* Latency
-* Cost
-* Security
-* Deployment
+**Engineering focus:** Understanding what frameworks abstract away and how to build transparent, testable agent runtimes.
 
-<br/>
+## `03` — Technical Arsenal
 
-## 📚 Currently Learning
+| Domain | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, SQL, C |
+| **AI / LLMs** | LangChain, LangGraph, RAG, MCP, Hugging Face, PyTorch |
+| **Backend** | FastAPI, Flask, REST APIs |
+| **Data & Retrieval** | PostgreSQL, pgvector, ChromaDB, MySQL |
+| **Frontend** | React, Vue |
+| **Infrastructure** | Docker, AWS, Google Cloud, Render, Vercel |
+| **Engineering** | Git, GitHub Actions, Postman, Sentry, observability |
 
-* 🧠 Advanced Agent Architectures
-* 🔗 Multi-Agent Systems
-* 🔎 RAG & Retrieval Optimization
-* 🛠️ MCP & Tool-Using Agents
-* 📊 LLM Evaluation
-* ☁️ AWS & AI Infrastructure
-* 🐳 Docker & Production Deployment
-* ⚙️ Distributed AI Systems
+## `04` — Engineering Principles
 
-<br/>
+I aim to build systems that are not just functional, but dependable.
 
-## 📊 GitHub Stats
+- **Reliability:** Design for failures, retries, and predictable fallbacks.
+- **Observability:** Make system behavior measurable and debuggable.
+- **Evaluation:** Test retrieval quality and model behavior rather than relying on intuition.
+- **Security:** Treat inputs, tools, and external integrations as trust boundaries.
+- **Efficiency:** Balance latency, token usage, and operational cost.
+- **Maintainability:** Prefer explicit architecture and testable components over unnecessary complexity.
 
-<div align="center">
+## `05` — Current Focus
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hary2003&show_icons=true&hide_border=true&bg_color=1a1423&title_color=D4AF37&text_color=EDE0C8&icon_color=D4AF37" height="170"/>
+- Advanced agent orchestration and multi-agent systems
+- Retrieval optimization and grounded generation
+- LLM evaluation and observability
+- Cloud infrastructure and deployment
+- Distributed systems for AI applications
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hary2003&layout=compact&hide_border=true&bg_color=1a1423&title_color=D4AF37&text_color=EDE0C8" height="170"/>
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
+## `06` — GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hary2003/Hary2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hary2003&show_icons=true&hide_border=true&bg_color=080808&title_color=D4AF37&text_color=C9C9C9&icon_color=D4AF37&rank_icon=github" height="165" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hary2003&layout=compact&hide_border=true&bg_color=080808&title_color=D4AF37&text_color=C9C9C9" height="165" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=Hary2003&hide_border=true&background=080808&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="70%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Building. Breaking. Learning. Rebuilding.
+**Build with intent. Engineer for reality.**
 
-*"It works on my machine — the highest form of documentation."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:080808&height=75&section=footer" width="100%" />
 
 </div>
